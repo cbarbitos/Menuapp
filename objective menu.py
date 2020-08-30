@@ -4,6 +4,7 @@ root=Tk()
 def getmenu():
     import random
     from random import choice
+    #The two list choices from which a combination of a meal will be produced.
     foods=["rice","ugali","spaghetti","fries","mukimo","chapo","githeri"]
     stews=["beans","njahi","eggs","ndengu","minji","beef","pork","mbuzi","veggies","waru","smokies","no stew"]
 
